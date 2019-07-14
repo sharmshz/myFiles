@@ -1,0 +1,16 @@
+Object Oriented Programming Language
+	- Polymorphism
+		- Method Overloading : method with same signature and different parameters
+		- Method Over-riding : occurs in inheritance
+	- Abstraction
+	- Inheritance: extends,implements
+	- Encapsulation 
+		
+=============================================================
+Final Keyword in JAVA
+
+	- Final class can not be sub classed
+	- Final value can not be changed
+	- Final method can not be overridden
+
+=============================================================

@@ -1,0 +1,9 @@
+Different navigation available in Selenium WebDriver
+
+	> 	driver.navigate().back();
+	>	driver.navigate().forward();
+	>	driver.navigate().refresh();
+	>	driver.navigate().to("string");
+	>	driver.navigate().to("url");
+	
+=============================================================================

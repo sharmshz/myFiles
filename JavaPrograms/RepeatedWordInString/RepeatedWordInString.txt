@@ -1,0 +1,11 @@
+
+public class RepeatedWordInString
+{
+	public static void main(String[] args)
+	{
+		String str =  "Hi there !! This is testing profile profile profile.";
+		System.out.println(str.replaceAll("[^a-zA-Z0-9]",""));
+
+
+	}	
+}

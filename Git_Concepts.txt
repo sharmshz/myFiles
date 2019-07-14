@@ -1,0 +1,23 @@
+How to link the local repository with the remote repository ?
+
+	* git remote add origin (remote repository link)
+	* eg : git remote add origin git@github.com:sharmshz/project.git
+	
+======================================================================
+ how to unstage/ un- index the added file  ?
+ 
+	* git rm --cached <file>
+	* eg : git rm --cached pom.xml
+
+======================================================================
+how to add all the file to index/stage ?
+
+	* git add .  (. means period which will add all the unstaged files)
+
+======================================================================
+
+how to save the files once indexed ?
+
+	* git commit -m "write the message here "
+	
+======================================================================
